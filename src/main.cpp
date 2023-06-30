@@ -10,7 +10,7 @@ int main() {
 
     int opcion = 0;
     while (opcion != 6) {
-        std::cout << "----- MEN� ----- " << std::endl;
+        std::cout << "----- MENU ----- " << std::endl;
         std::cout << "1. Registrar materia" << std::endl;
         std::cout << "2. Registrar profesor" << std::endl;
         std::cout << "3. Registrar alumnos" << std::endl;
